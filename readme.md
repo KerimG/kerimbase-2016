@@ -1,3 +1,6 @@
+This is a slightly modified version of the Base-2016 theme. I just needed to add tracking code to the pages but disliked
+existing Bolt extensions that are supposed to be able to do this.
+
 Bolt Base-2016 Theme
 ====================
 
